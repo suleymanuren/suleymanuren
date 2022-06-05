@@ -72,7 +72,7 @@
 
 </td><td valign="top" width="80%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suleymanuren&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=suleymanuren&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 97%" />
 </td></tr>
 </table>  
 
