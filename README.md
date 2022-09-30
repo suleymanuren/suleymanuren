@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suleyman Uren</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Mobile App Developer from Turkey</h3>
 
 <a href="https://github.com/suleymanuren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
