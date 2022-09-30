@@ -41,7 +41,14 @@
 - ⚡ Fun fact **I keep night shift swithed on at all times**
  
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suleymanuren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suleymanuren" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suleymanuren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleymanuren" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/suleyman-uren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suleyman-uren" height="30" width="40" /></a>
+<a href="https://instagram.com/suleymanuren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suleymanuren" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suleymanuren07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suleymanuren07" height="30" width="40" /></a>
+</p>
 </td><td valign="top" width="50%">
 
 <div align="center">
