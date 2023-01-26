@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-### After 8 months of flutter experience, I started learning kotlin and swift because I wanted to switch to a native language. I have a structure that learns quickly and develops quickly. I had a great experience in this short time by working on many live projects. But of course, this is not enough, I am aware of this and I try to improve myself every day.  
+### After 8 months of flutter experience, I started learning kotlin and swift because I wanted to learn to a native language. I have a structure that learns quickly and develops quickly. I had a great experience in this short time by working on many live projects. But of course, this is not enough, I am aware of this and I try to improve myself every day.  
   
 
 <br/>  
@@ -34,9 +34,9 @@
 
 - 🔭 I’m currently working on **learn to kotlin**
 
-- 🌱 I’m currently learning **Kotlin, Swift**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Kotlin, Flutter, Dart**
 
 - 📫 How to reach me **suleymanuren07@gmail.com**
 
@@ -60,10 +60,10 @@
 <div align="center">  
 <p align="left"> 
 
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
